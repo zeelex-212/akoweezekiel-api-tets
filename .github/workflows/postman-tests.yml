@@ -1,4 +1,5 @@
 name: Run Postman API Tests
+on:
 push:
     branches: [ "dev" ]
   pull_request:
